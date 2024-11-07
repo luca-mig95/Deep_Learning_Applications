@@ -1,5 +1,5 @@
 # Deep_Learning_Applications
-Second module project - IT Coding for Data Science - instructor: Dr. Pozzi
+Project for Deep Learning Applications - instructor: Dr. Pozzi
 
 # HalfCheetah-v3 Reinforcement Learning
 
